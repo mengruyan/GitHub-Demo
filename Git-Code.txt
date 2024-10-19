@@ -1,0 +1,6 @@
+git init # initialize a repository
+git status # check commits
+git add fileName # add file to the repository from working directory
+git rm --cached fileName # remove file from repository to working directory
+git add . # add all the files to be committed
+
